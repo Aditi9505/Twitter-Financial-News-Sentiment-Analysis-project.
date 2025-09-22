@@ -2,7 +2,8 @@
 
 This project aims to classify financial news tweets into predefined categories using various machine learning and deep learning models. The notebook explores the data, cleans the text, trains models like Logistic Regression and a Convolutional Neural Network (CNN), and provides a simple web interface for real-time predictions using Streamlit.
 
-![Word Cloud of Financial Tweets](https://i.imgur.com/KzQO6mE.png)
+![Uploading {4C3A79DB-8EEB-4CEB-9954-894334810B1E}.png…]()
+
 
 ---
 
